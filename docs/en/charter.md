@@ -13,8 +13,9 @@ description: Official Charter establishing the Behavioral-Economic Identity (BEI
 > **Domains:** BEIGenesis.com / .org · BEIScience.com / .org
 
 ---
-
 ## I. Prologue — The Genesis of a Human-Centric Science
+The conceptual lineage of the discipline traces back to **1999**, with a complete system and charter formalized in 2025.  
+
 Throughout human history, every leap of civilization began with one realization: we can comprehend the universe, yet we have not fully understood ourselves. Physics revealed the structure of matter; economics quantified the flow of resources; but **human identity**—the source of behavior and value—has not been systematically defined or standardized.  
 **BEI Genesis Science** emerges not as an extension of existing fields but as a **new scientific layer**, unifying behavior, identity, value, and sovereignty within a measurable, verifiable, and operational framework.  
 This discipline is represented by **BEIGenesis.com / .org** and **BEIScience.com / .org**—“**BEIGenesis**” embodies creation, “**BEIScience**” sustains evolution.
